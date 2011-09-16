@@ -7,6 +7,8 @@ public class HelloWishes {
 		System.out.println("Nirmalya, Best of luck for your Postdoc and your new stay!");
 		System.out.println("Nirmalya, Best of luck for your Postdoc and your new stay!");
 		System.out.println("Nirmalya, Best of luck for your Postdoc and your new stay!");
+		System.out.println("Nirmalya, Best of luck for your Postdoc and your new stay!");
+
 	}
 
 
